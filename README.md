@@ -1,5 +1,5 @@
-I created my first basic calculator in Java.
+Criei minha primeira calculadora básica em Java.
 
-I would like to make a note: the calculator's display is divided horizontally into two screens, one at the top where your expressions are displayed, and another at the bottom showing the result. Click with the mouse on the top of the display when typing on your keyboard, so that your calculation appears correctly on the display.
+Gostaria de fazer uma observação: o visor da calculadora é dividido horizontalmente em duas telas, uma na parte superior onde suas expressões são exibidas, e outra na parte inferior mostrando o resultado. Clique com o mouse na parte superior do visor ao digitar no seu teclado, para que seu cálculo apareça corretamente no visor.
 
-I hope you like it, thank you!!!
+Espero que goste, obrigado!!!
